@@ -18,11 +18,11 @@ En [este documento](docs/confidencialidad/README.md) se han recopilado los eleme
 
 Capítulos|Resumen|Espacio de Entrega|Fecha límite
 -|-|-|-
-[Capítulo 1](./cap%C3%ADtulos/capitulo1.md) |Base del proyecto, puerta de entrada a la lectura y comprensión del documento.|[Entrega 1](https://campus.uneatlantico.es/mod/assign/view.php?id=45997)|*Ver GANTT* 
-[Capítulo 2](./cap%C3%ADtulos/capitulo2.md) |Requisitos|[Entrega 2](https://campus.uneatlantico.es/mod/assign/view.php?id=45998)|*Ver GANTT*
-[Capítulo 3](./cap%C3%ADtulos/capitulo3.md) |Análisis & Diseño|[Entrega 3](https://campus.uneatlantico.es/mod/assign/view.php?id=45999)|*Ver GANTT*
-[Capítulos finales](/cap%C3%ADtulos/entrega4.md) |Descripción de la solución, conclusiones, discusión de resultados, recomendaciones y futuras líneas de actuación|[Entrega 4](https://campus.uneatlantico.es/mod/assign/view.php?id=46000)|*Ver GANTT*
-Entrega Final |Espacio para la carga de la versión final del documento|[Entrega final](https://campus.uneatlantico.es/mod/assign/view.php?id=46001)|*Ver GANTT*
+[Capítulo 1](./cap%C3%ADtulos/capitulo1.md) |Base del proyecto, puerta de entrada a la lectura y comprensión del documento.| - |*Ver GANTT* 
+[Capítulo 2](./cap%C3%ADtulos/capitulo2.md) |Requisitos| - |*Ver GANTT*
+[Capítulo 3](./cap%C3%ADtulos/capitulo3.md) |Análisis & Diseño| - |*Ver GANTT*
+[Capítulos finales](/cap%C3%ADtulos/entrega4.md) |Descripción de la solución, conclusiones, discusión de resultados, recomendaciones y futuras líneas de actuación| - |*Ver GANTT*
+Entrega Final |Espacio para la carga de la versión final del documento| - |*Ver GANTT*
 
 ### Acerca de plazos y tiempos
 
