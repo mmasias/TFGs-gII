@@ -14,4 +14,4 @@ Se puede utilizar [este formato](plantillaAcuerdoConfidencialidad.md) como base 
 
 Adicionalmente, estos puntos deben aportarse dentro del TFG, en un Anexo especialmente dedicado a este tema.
 
-- [Solicitudes recibidas](confidencialidad22-23.md)
+- [Solicitudes recibidas](confidencialidad.md)
