@@ -1,5 +1,7 @@
 # TFGs - gII
 
+> Realización, presentación y defensa, una vez obtenidos todos los créditos del plan de estudios, de un ejercicio original realizado ante un tribunal universitario, consistente en un **proyecto integral de Ingeniería Informática de naturaleza profesional en el que se sinteticen las competencias adquiridas en las enseñanzas**. [*CODDII, 2024*](https://coddii.org/wp-content/uploads/2024/12/Fichas-GII-MUII-Noviembre-2024.pdf)
+
 ## Documentación
 
 * **[Presentación](https://docs.google.com/presentation/d/1BlZwZ0pM4aT1-W8WqfhJG0xYQJG4vaLGZFo7-62PXvk/edit?usp=share_link)**
