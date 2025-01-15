@@ -5,9 +5,9 @@
 ## Documentación
 
 * **[Presentación](https://docs.google.com/presentation/d/1BlZwZ0pM4aT1-W8WqfhJG0xYQJG4vaLGZFo7-62PXvk/edit?usp=share_link)**
+* [**Cronograma**](https://docs.google.com/spreadsheets/d/14sPn75_qA81ezfC-2m1fv33EPJB8FUKLPDayJGMAbjU/edit?usp=sharing)
 * [Directrices](https://docs.google.com/document/d/1ziJE0gXrQugCRoq1vYWe5m-OmicB2gflxG29cGRZrWs/edit?usp=share_link)
 * [Rúbricas](docs/rubricas.md)
-* [Cronograma](https://docs.google.com/spreadsheets/d/1B4doBYxjDyjROwopFuF0hKd0zgA_xBgf7e7PFnv74so/edit?usp=sharing)
 
 ### Confidencialidad del TFG
 
