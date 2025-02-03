@@ -17,8 +17,8 @@ En [este documento](docs/confidencialidad/README.md) se han recopilado los eleme
 
 Capítulos|Resumen|Espacio de Entrega
 -|-|:-:
-[Documento D0](https://docs.google.com/document/d/1pOYQI92gmyIeFjCkUD2-FHpgrXHIqebOsHC3g71SsiM/edit?usp=share_link)| Propuestas de temas | [*@Campus*](https://campus.uneatlantico.es/mod/assign/view.php?id=56100)
-[Documento D1](https://docs.google.com/document/d/1JdICegtlkqWMMr38ef04MNJHAjVTtE54994zzRQ91yM/edit?usp=share_link)| Propuesta de trabajo de fin de grado | [*@Campus*](https://campus.uneatlantico.es/mod/assign/view.php?id=56101)
+[Documento D0](https://docs.google.com/document/d/1pOYQI92gmyIeFjCkUD2-FHpgrXHIqebOsHC3g71SsiM/edit?usp=share_link)| Propuestas de temas | [*@Campus*](https://campus.uneatlantico.es/mod/assign/view.php?id=69065)
+[Documento D1](https://docs.google.com/document/d/1JdICegtlkqWMMr38ef04MNJHAjVTtE54994zzRQ91yM/edit?usp=share_link)| Propuesta de trabajo de fin de grado | [*@Campus*](https://campus.uneatlantico.es/mod/assign/view.php?id=69066)
 [Capítulo 1](./cap%C3%ADtulos/capitulo1.md) |Base del proyecto, puerta de entrada a la lectura y comprensión del documento.| -
 [Capítulo 2](./cap%C3%ADtulos/capitulo2.md) |Requisitos| -
 [Capítulo 3](./cap%C3%ADtulos/capitulo3.md) |Análisis & Diseño| -
