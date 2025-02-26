@@ -79,3 +79,9 @@ Que están directamente mapeados con los capítulos!!!
 </div>
 
 Todo esto indicado en el capítulo 5 (Capítulo de Conclusiones / Discusión de resultados / Recomendaciones / Futuras líneas de actuación)
+
+---
+
+***Nota aclaratoria:***
+
+Estas guías que proporcionamos (como la estructura por preguntas o la aproximación por etapas) son herramientas para **ayudar a organizar el pensamiento y la redacción**. Luego cada estudiante debe aplicarlas adaptándolas a su caso específico, usando su propio criterio y conocimientos. El verdadero valor de un TFG está en cómo el estudiante demuestra su capacidad para abordar problemas complejos del mundo real utilizando los conocimientos y competencias adquiridos durante su formación, no en seguir mecánicamente una "receta" predefinida.
