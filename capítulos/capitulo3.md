@@ -50,6 +50,6 @@ Estudiando la descripción de los Casos de Uso y el Modelo de Dominio existente|
 |-|-|
 ¿Por qué parte comenzarías, continuarías y terminarias la producción de código?|Casos de Uso Priorizados y especificados,
 ¿Qué medidas aplicarías para obtener la calidad del software adecuada para facilitar la depuración de errores, la mantenibilidad corrective, perfective o adaptativa?|Análisis de la Arquitectura<br>Análisis de Casos de Uso<br>Análisis de Clases, revisión<br>Análisis de Paquetes, revisión<br>
-¿Cómo repartirías las tareas de producción entre las personas del equipo de desarrollo?|Estimando cada actividad, entre 2 y 20 horas, y repartiendo cohesivamente entre el equipo de desarrollo
+¿Cómo repartirías las tareas de producción entre las personas del equipo de desarrollo?|Estimando cada actividad, entre 2 y 20 horas y  repartiendo cohesivamente entre el equipo de desarrollo
 
 …​ con trazabilidad de todo!

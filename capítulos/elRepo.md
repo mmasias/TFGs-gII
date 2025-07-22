@@ -74,7 +74,7 @@ Se requieren datasets representativos que permitan mostrar las funcionalidades m
 
 #### Navegación por la arquitectura del sistema
 
-Comenzar mostrando la estructura general del proyecto desde el explorador de archivos del IDE. Explicar la organización de carpetas, la separación de responsabilidades, y cómo se refleja la arquitectura planteada en la organización física del código.
+Comenzar mostrando la estructura general del proyecto desde el explorador de archivos del IDE. Explicar la organización de carpetas, la separación de responsabilidades y  cómo se refleja la arquitectura planteada en la organización física del código.
 
 #### Exploración de componentes clave
 
@@ -143,7 +143,7 @@ Los ingenieros informáticos deben desarrollar la misma confianza en sus herrami
 
 ### Preparación para el mundo profesional
 
-En el entorno laboral real, las presentaciones técnicas se realizan en salas de reuniones con pantallas compartidas, mostrando código real, navegando por repositorios, y demostrando funcionalidades en vivo. La universidad debería preparar para esta realidad, no para un mundo artificial de diapositivas desconectadas del trabajo real.
+En el entorno laboral real, las presentaciones técnicas se realizan en salas de reuniones con pantallas compartidas, mostrando código real, navegando por repositorios y  demostrando funcionalidades en vivo. La universidad debería preparar para esta realidad, no para un mundo artificial de diapositivas desconectadas del trabajo real.
 
 ## El repositorio como carta de presentación
 
@@ -157,10 +157,10 @@ La organización del código, la consistencia en el estilo, la calidad de los co
 
 ### Portafolio profesional
 
-El repositorio se convierte en parte del portafolio profesional del estudiante. Los empleadores prefieren ver código real, sistemas funcionando, y evidencia de capacidad técnica, por encima de presentaciones corporativas genéricas.
+El repositorio se convierte en parte del portafolio profesional del estudiante. Los empleadores prefieren ver código real, sistemas funcionando y  evidencia de capacidad técnica, por encima de presentaciones corporativas genéricas.
 
 ## La presentación como acto profesional
 
 La defensa de un TFG en ingeniería informática debe ser un acto profesional genuino: un ingeniero demostrando su trabajo usando las herramientas de su profesión. Esta aproximación no solo mejora la calidad de la evaluación, sino que prepara mejor a los estudiantes para su futuro profesional.
 
-Cuando un ingeniero informático presenta desde su repositorio, desde su IDE, desde su entorno de trabajo real, está haciendo una declaración: ***"Esta es mi profesión, estas son mis herramientas, y domino ambas"***. Es una afirmación de competencia profesional que trasciende cualquier presentación tradicional.
+Cuando un ingeniero informático presenta desde su repositorio, desde su IDE, desde su entorno de trabajo real, está haciendo una declaración: ***"Esta es mi profesión, estas son mis herramientas y  domino ambas"***. Es una afirmación de competencia profesional que trasciende cualquier presentación tradicional.

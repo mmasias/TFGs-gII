@@ -1,13 +1,13 @@
 # Acuerdo de confidencialidad para el TFG
 
-Por un lado, el Sr./Sra. *nombre alumno/a*, con NIF *NIF alumno/a*, y por otro el Sr./Sra. *nombre representante empresa*, con NIF *NIF representante empresa* que actúa en nombre de la empresa *Nombre empresa*, acuerdan firmar este Acuerdo de Confidencialidad que se regirá por
+Por un lado, el Sr./Sra. *nombre alumno/a*, con NIF *NIF alumno/a* y  por otro el Sr./Sra. *nombre representante empresa*, con NIF *NIF representante empresa* que actúa en nombre de la empresa *Nombre empresa*, acuerdan firmar este Acuerdo de Confidencialidad que se regirá por
 las siguientes cláusulas, previas a las siguientes
 
 CONSIDERACIONES:
 
 *Nombre y apellidos*, estudiante del Grado en Ingenieria Informática de la Escuela Politécnica Superior de la Universidad Europea del Atlántico, solicita de la empresa *nombre empresa* los datos e información necesaria para la realización del Trabajo de Final de Grado.
 
-*Nombre empresa*, representada por *nombre representante empresa*, comunicará por escrito qué información, de toda la que se comparta, debe tener la consideración de confidencial, ya sea por motivos de interés empresarial, estratégico, o por cualquier otros.
+*Nombre empresa*, representada por *nombre representante empresa*, comunicará por escrito qué información, de toda la que se comparta, debe tener la consideración de confidencial y a sea por motivos de interés empresarial, estratégico, o por cualquier otros.
 
 CLÁUSULAS
 
@@ -21,7 +21,7 @@ CLÁUSULAS
 
 **Quinta**. Se entenderá por resultado del trabajo toda aquella información, documentación, conocimientos técnicos, científicos, equipos o materiales, know-how, métodos de trabajo, datos, estadísticas, obtenidos en el desarrollo del TFG de este acuerdo.
 
-**Sexta**. Las partes se obligan, asimismo, a informarse inmediatamente de cualquier actuación contraria a los pactos recogidos en esta cláusula que tengan conocimiento, y a poner todos los medios a su alcance para bloquear los usos indebidos y la difusión de la información confidencial.
+**Sexta**. Las partes se obligan, asimismo, a informarse inmediatamente de cualquier actuación contraria a los pactos recogidos en esta cláusula que tengan conocimiento y  a poner todos los medios a su alcance para bloquear los usos indebidos y la difusión de la información confidencial.
 
 **Séptima**. Transcurridos 4 años del archivo, la confidencialidad dejará de tener efecto.
 

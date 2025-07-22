@@ -16,7 +16,7 @@ Habiendo entendido el espacio sobre el que se mueve el TFG, el estado del arte d
 
 ## ¿Cómo?
 
-Realizando una abstracción de la realidad, y a partir de esta especificando los requisitos del sistema.
+Realizando una abstracción de la realidad y  a partir de esta especificando los requisitos del sistema.
 
 ### Modelo del dominio
 
@@ -52,7 +52,7 @@ Estructurar la descripción de los Casos de Uso
 -|-|
 ¿Sabrías qué y cómo preguntarme, en qué orden y hasta qué nivel de detalle?|Modelo del Dominio, Actores, Casos de Uso, Detalle de Casos de Uso, Prototipo de Interfaz
 ¿Cuál sería el formato adecuado del resultado de las reuniones?|Diagramas de Clases, Objetos, Actividad, Estados, …​ para el Modelo de Dominio,<br>Diagramas de Casos de Uso para Actores y Casos de Uso,<br>Diagramas de Estados o Actividad o Secuencia o textos para el detalle de Casos de Uso
-¿Como repartirías las tareas de requisitos entre las personas del equipo de desarrollo? ¿Con cuántas personas empezarías?|Estimando cada actividad, entre 2 y 20 horas, y repartiendo cohesivamente entre el equipo de desarrollo
+¿Como repartirías las tareas de requisitos entre las personas del equipo de desarrollo? ¿Con cuántas personas empezarías?|Estimando cada actividad, entre 2 y 20 horas y  repartiendo cohesivamente entre el equipo de desarrollo
 
 
 …​ con trazabilidad de todo!

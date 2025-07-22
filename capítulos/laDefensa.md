@@ -6,7 +6,7 @@ La defensa del TFG representa el momento que sintetiza las competencias adquirid
 
 ## ¿Qué?
 
-Una presentación efectiva de TFG en ingeniería informática que combine narrativa coherente, demostración práctica desde las herramientas profesionales reales, y capacidad de respuesta técnica fundamentada.
+Una presentación efectiva de TFG en ingeniería informática que combine narrativa coherente, demostración práctica desde las herramientas profesionales reales y capacidad de respuesta técnica fundamentada.
 
 ## ¿Para qué?
 

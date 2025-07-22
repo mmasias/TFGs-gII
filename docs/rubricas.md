@@ -24,7 +24,7 @@ Nº|Categoría|Incompleto (0-4 puntos)|Bien (5-7 puntos)|Excelente (8-10 puntos)
 
 Nº|Categoría|Incompleto (0-5 puntos)|Bien (6-8 puntos)|Excelente (9-10 puntos)|Calificación|Peso
 -|-|-|-|-|-|-
-1|Calidad de la presentación oral|La exposición del trabajo revela poca capacidad de síntesis, el póster con demasiado texto o datos, no se siguen.|La exposición del trabajo revela una buena capacidad de síntesis, pero a veces no apoya a la comprensión del trabajo, y no siempre están bien enlazadas.|La exposición del trabajo revela una excelentes capacidad de síntesis, el póster está muy bien estructurado.||25%
+1|Calidad de la presentación oral|La exposición del trabajo revela poca capacidad de síntesis, el póster con demasiado texto o datos, no se siguen.|La exposición del trabajo revela una buena capacidad de síntesis, pero a veces no apoya a la comprensión del trabajo y  no siempre están bien enlazadas.|La exposición del trabajo revela una excelentes capacidad de síntesis, el póster está muy bien estructurado.||25%
 2|Claridad expositiva|Baja capacidad de expresión oral, lee demasiadas veces sus notas y no muestra interés por su trabajo.|Correcta expresión oral, pero en algunos momentos baja el tono y no siempre mantiene el interés en la audiencia.|Excelente expresión oral, clara y correcta, manteniendo el interés de la audiencia, ajustándose al tiempo.||25%
 3|Respuesta a los evaluadores|Respuestas pobres y se aprecia que no sabe razonar sobre el trabajo realizado|Respuestas adecuadas y razonadas sobre su trabajo.|Excelentes respuestas sobre el trabajo realizado y elevada capacidad de razonamiento.||50%
 

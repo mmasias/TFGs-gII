@@ -2,7 +2,7 @@
 
 ## ¿Qué?
 
-En estos capítulos se muestra por fin la solución que se ha desarrollado, recordando que lo hacemos en el marco de un trabajo de fin de grado, y contextualizando la solución dentro del proceso de creación de la misma.
+En estos capítulos se muestra por fin la solución que se ha desarrollado, recordando que lo hacemos en el marco de un trabajo de fin de grado y  contextualizando la solución dentro del proceso de creación de la misma.
 
 ## ¿Por qué?
 

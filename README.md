@@ -31,4 +31,4 @@ Para la adecuada gestión del TFG el seguimiento de las fechas de entrega es fun
 
 ## La defensa
 
-Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md) y [las herramientas](capítulos/elRepo.md)
+Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md) y [las herramientas para la misma](capítulos/elRepo.md)
