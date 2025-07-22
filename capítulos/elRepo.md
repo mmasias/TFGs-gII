@@ -1,5 +1,11 @@
 # El repositorio
 
+<div align=right>
+
+*La pregunta no debería ser si es apropiado presentar utilizando herramientas técnicas<br>como los repositorios, los IDEs o el UML, sino **por qué se aceptó como normal durante<br>tanto tiempo que los ingenieros informáticos ocultaran la riqueza de su trabajo detrás<br>de diapositivas genéricas**. Es hora de que la profesión muestre sus herramientas con el<br>mismo orgullo que cualquier otra ingeniería.*
+  
+</div>
+
 ## ¿Por qué?
 
 Existe una paradoja en la presentación de proyectos de ingeniería informática. Los estudiantes y profesionales dedican meses desarrollando en entornos especializados, utilizando herramientas profesionales de vanguardia, creando artefactos digitales complejos y sofisticados. Sin embargo, al momento de presentar su trabajo, abandonan completamente estas herramientas para refugiarse en presentaciones genéricas mediante diapositivas.
@@ -158,5 +164,3 @@ El repositorio se convierte en parte del portafolio profesional del estudiante. 
 La defensa de un TFG en ingeniería informática debe ser un acto profesional genuino: un ingeniero demostrando su trabajo usando las herramientas de su profesión. Esta aproximación no solo mejora la calidad de la evaluación, sino que prepara mejor a los estudiantes para su futuro profesional.
 
 Cuando un ingeniero informático presenta desde su repositorio, desde su IDE, desde su entorno de trabajo real, está haciendo una declaración: ***"Esta es mi profesión, estas son mis herramientas, y domino ambas"***. Es una afirmación de competencia profesional que trasciende cualquier presentación tradicional.
-
-<big><i>La pregunta no debería ser si es apropiado presentar utilizando herramientas técnicas como los repositorios, los IDEs o el UML, sino **por qué se aceptó como normal durante tanto tiempo que los ingenieros informáticos ocultaran la riqueza de su trabajo detrás de diapositivas genéricas**. Es hora de que la profesión muestre sus herramientas con el mismo orgullo que cualquier otra ingeniería.</i></big>
