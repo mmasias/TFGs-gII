@@ -4,14 +4,9 @@
 
 ## Documentación
 
-* **[Presentación](https://docs.google.com/presentation/d/1BlZwZ0pM4aT1-W8WqfhJG0xYQJG4vaLGZFo7-62PXvk/edit?usp=share_link)**
-* [**Cronograma**](https://docs.google.com/spreadsheets/d/14sPn75_qA81ezfC-2m1fv33EPJB8FUKLPDayJGMAbjU/edit?usp=sharing)
-* [Directrices](https://docs.google.com/document/d/1ziJE0gXrQugCRoq1vYWe5m-OmicB2gflxG29cGRZrWs/edit?usp=share_link)
+* [Directrices](/docs/directricesRubricas%20.md)
+* [Cronograma](https://docs.google.com/spreadsheets/d/14sPn75_qA81ezfC-2m1fv33EPJB8FUKLPDayJGMAbjU/edit?usp=sharing)
 * [Rúbricas](docs/rubricas.md)
-
-### Confidencialidad del TFG
-
-En [este documento](docs/confidencialidad/README.md) se han recopilado los elementos a tener en cuenta con respecto la confidencialidad del TFG.
 
 ## Esquema & Entregables
 
@@ -32,3 +27,7 @@ Para la adecuada gestión del TFG el seguimiento de las fechas de entrega es fun
 ## La defensa
 
 Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md) y [las herramientas para la misma](capítulos/elRepo.md)
+
+### Confidencialidad del TFG
+
+En [este documento](docs/confidencialidad/README.md) se han recopilado los elementos a tener en cuenta con respecto la confidencialidad del TFG.
