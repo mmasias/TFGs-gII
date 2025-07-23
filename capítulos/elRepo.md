@@ -48,10 +48,10 @@ Hemos de considerar algo muy importante: el punto de partida es el repositorio d
 
 #### Optimización del repositorio existente
 
-El repositorio ya debería estar estructurado de manera que facilite la navegación durante la presentación. Si no lo está ya, es necesario:
+A priori el repositorio debería estar estructurado de manera que facilite la navegación durante la presentación: lo ha estado (o ha tendido a eso) durante todo el desarrollo del proyecto. Es necesario, pues:
 
 - Revisar que el README.md sirva como punto de entrada claro, o bien preparar un README.MD ad-hoc la presentación.
-- Verificar que el código esté organizado en carpetas lógicas y bien documentadas.
+- Repasar la ubicación del código, que estará organizado en carpetas lógicas y bien documentadas.
 - Asegurar que los diagramas de arquitectura estén integrados en el repositorio.
 - Mantener un historial de commits limpio y descriptivo.
 
@@ -74,18 +74,25 @@ Se requieren datasets representativos que permitan mostrar las funcionalidades m
 
 ### Estructura de la presentación técnica
 
-#### Navegación por la arquitectura del sistema
+#### Contextualización
 
-Comenzar mostrando la estructura general del proyecto desde el explorador de archivos del IDE. Explicar la organización de carpetas, la separación de responsabilidades y  cómo se refleja la arquitectura planteada en la organización física del código.
+- El modelo del dominio.
 
 #### Exploración de componentes clave
 
-Seleccionar las clases o módulos más representativos y navegar por su código fuente. Mostrar:
+Seleccionar los 3 o 4 casos de uso más representativos y mostrar:
 
-- Cómo se implementan los patrones de diseño identificados
-- La aplicación de principios SOLID en el código
-- La gestión de dependencias y la inversión de control
-- La implementación de casos de uso específicos
+- Ubicación en el modelo del dominio.
+- Relación en el(los) diagrama(s) de contexto.
+
+#### La arquitectura del sistema
+
+- Análisis: de los casos de uso al diagrama de clases de análisis.
+- Brevísima discusión técnica conducente al diseño.
+- Diseño: de las clases de análisis a las clases de diseño.
+- Estructura general del proyecto desde el explorador de archivos del IDE. 
+- Organización de carpetas, separación de responsabilidades y el paralelo entre la arquitectura planteada y la organización física del código.
+- Código fuente.
 
 #### Demostración en vivo del sistema
 
