@@ -44,14 +44,16 @@ Presentar desde el entorno real permite responder preguntas específicas explora
 
 ### Preparación del entorno de presentación
 
-#### Organización del repositorio
+Hemos de considerar algo muy importante: el punto de partida es el repositorio donde se ha estado trabajando durante el desarrollo del proyecto del cual se hace el TFG. No se trata de crear algo nuevo para la presentación, sino de aprovechar y optimizar el entorno de trabajo ya existente.
 
-El repositorio debe estar estructurado de manera que facilite la navegación durante la presentación. Es necesario:
+#### Optimización del repositorio existente
 
-- Crear un README.md detallado que sirva como punto de entrada
-- Organizar el código en carpetas lógicas y bien documentadas
-- Incluir diagramas de arquitectura directamente en el repositorio
-- Mantener un historial de commits limpio y descriptivo
+El repositorio ya debería estar estructurado de manera que facilite la navegación durante la presentación. Si no lo está ya, es necesario:
+
+- Revisar que el README.md sirva como punto de entrada claro, o bien preparar un README.MD ad-hoc la presentación.
+- Verificar que el código esté organizado en carpetas lógicas y bien documentadas.
+- Asegurar que los diagramas de arquitectura estén integrados en el repositorio.
+- Mantener un historial de commits limpio y descriptivo.
 
 #### Configuración del entorno de desarrollo
 
