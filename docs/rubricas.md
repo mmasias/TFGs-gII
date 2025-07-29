@@ -32,7 +32,7 @@ Nº|Categoría|Incompleto (0-5 puntos)|Bien (6-8 puntos)|Excelente (9-10 puntos)
 
 ## [Nota final](rubricas/notaFinal.md)
 
-Director TFG - Trabajo Escrito|Miembro tribunal 1|Miembro tribunal 1|Miembro tribunal 1|Media del tribunal
+Director TFG - Trabajo Escrito|Miembro tribunal 1|Miembro tribunal 2|Miembro tribunal 3|Media del tribunal
 :-:|:-:|:-:|:-:|:-:
 __________ | __________| __________| __________| __________
 
