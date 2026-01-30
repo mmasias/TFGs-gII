@@ -8,6 +8,8 @@
 * [Cronograma 25-26](https://docs.google.com/spreadsheets/d/1zFPKdkEQZRvXIdsXGlh1E9nfXHBAW2I1p3DZXDI9PyU/edit?usp=sharing)
 * [Rúbricas](docs/rubricas.md)
 
+> Acerca de la IA en nuestra disciplina: nos regimos por los elementos que se describen y desprenden del documento [***Nuestra política con respecto a la IA***](https://github.com/mmasias/mmasias/blob/main/docs/UNEATLANTICO/2Think.md)
+
 ## Esquema & Entregables
 
 Capítulos|Resumen|Espacio de Entrega
