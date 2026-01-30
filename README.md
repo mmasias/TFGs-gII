@@ -5,7 +5,7 @@
 ## Documentación
 
 * [Directrices](/docs/directricesRubricas%20.md)
-* [Cronograma](https://docs.google.com/spreadsheets/d/14sPn75_qA81ezfC-2m1fv33EPJB8FUKLPDayJGMAbjU/edit?usp=sharing)
+* [Cronograma 25-26](https://docs.google.com/spreadsheets/d/1zFPKdkEQZRvXIdsXGlh1E9nfXHBAW2I1p3DZXDI9PyU/edit?usp=sharing)
 * [Rúbricas](docs/rubricas.md)
 
 ## Esquema & Entregables
