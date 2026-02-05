@@ -8,7 +8,7 @@ Nuestro grado entiende la ingeniería informática como disciplina de proceso. L
 
 <div align=center>
 
-|Cliente real obligatorio|Metodología formal explícita|Trazabilidad total vía repositorio|
+|Cliente real obligatorio|Metodología formal explícita|[Trazabilidad total vía repositorio](capítulos/elRepo.md)|
 |-|-|-|
 |Las decisiones de diseño responden a necesidades verificables, no a preferencias del desarrollador.|RUP como estándar, ágiles como alternativa documentada.|Todo trabajo —ejecución, documentación, TFG, defensa— reside en repositorio.
 |Esto elimina la arbitrariedad en la definición del producto.|Esto estructura el proceso y hace auditables las decisiones técnicas y de valoración de la solución.|El historial de commits expone el proceso de creación como objeto evaluable.
