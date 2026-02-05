@@ -2,6 +2,21 @@
 
 > Realización, presentación y defensa, una vez obtenidos todos los créditos del plan de estudios, de un ejercicio original realizado ante un tribunal universitario, consistente en un **proyecto integral de Ingeniería Informática de naturaleza profesional en el que se sinteticen las competencias adquiridas en las enseñanzas**. [*CODDII, 2024*](https://coddii.org/wp-content/uploads/2024/12/Fichas-GII-MUII-Noviembre-2024.pdf)
 
+## Acerca de
+
+Nuestro grado entiende la ingeniería informática como disciplina de proceso. La evaluación recae sobre el cómo se crea, no sobre qué se crea. Y esto hemos de garantizarlo mediante tres pilares:
+
+<div align=center>
+
+|Cliente real obligatorio|Metodología formal explícita|Trazabilidad total vía repositorio|
+|-|-|-|
+|Las decisiones de diseño responden a necesidades verificables, no a preferencias del desarrollador.|RUP como estándar, ágiles como alternativa documentada.|Todo trabajo —ejecución, documentación, TFG, defensa— reside en repositorio.
+|Esto elimina la arbitrariedad en la definición del producto.|Esto estructura el proceso y hace auditables las decisiones técnicas y de valoración de la solución.|El historial de commits expone el proceso de creación como objeto evaluable.
+
+</div>
+
+> Se evalúa sobre todo si el proceso de creación fue riguroso, justificado y auditable.
+
 ## Documentación
 
 * [Directrices](/docs/directricesRubricas%20.md)
