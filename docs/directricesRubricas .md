@@ -4,7 +4,7 @@
 
 ## Introducción
 
-El Trabajo de Fin de Grado (TFG) es una asignatura transversal en los grados de la Escuela Politécnica Superior, así como en otros tal y como se establece en el Artículo 12 del Real Decreto 1393/2007. Así, los estudios del Grado en Ingeniería Informática perteneciente a la Escuela Politécnica Superior concluirán con la elaboración y posterior defensa de un TFG. 
+El Trabajo de Fin de Grado (TFG) es una asignatura transversal en los grados de la Escuela Politécnica Superior, así como en otros tal y como se establece en el Artículo 12 del Real Decreto 1393/2007. Consiste en la realización, presentación y defensa de un ejercicio original consistente en un proyecto integral de Ingeniería Informática de naturaleza profesional en el que se sinteticen las competencias adquiridas en las enseñanzas (3). Así, los estudios del Grado en Ingeniería Informática perteneciente a la Escuela Politécnica Superior concluirán con la elaboración y posterior defensa de un TFG. 
 
 A continuación, se expondrán una serie de competencias que los alumnos/as del Grado en Ingeniería Informática de la Universidad Europea del Atlántico deberán obtener al finalizar esta formación, y cómo se llevará a cabo el proceso de realización y evaluación del mismo.
 
@@ -39,17 +39,17 @@ La Normativa General de la Universidad Europea del Atlántico[^1] establece que,
 
 ## Fases en la elaboración del Trabajo de Fin de Grado
 
-A continuación, se explicarán las tres fases en las que se ha dividido la elaboración del TFG en función de los objetivos a cumplir.
+A continuación, se explicarán las tres fases en las que se ha dividido la elaboración del TFG en función de los objetivos a cumplir. 
 
 * En la **primera fase**, se busca que tanto el/la alumno/a como el/la Director/a del TFG tengan una idea global del tema que se pretende desarrollar en el proyecto.
 * En la **segunda fase**, se han establecido las entregas donde el/la alumno/a deberá ir entregando por partes el TFG y recibirá unas correcciones del/de la Director/a del TFG que deberá ir aplicando en futuras entregas.
 * Finalmente, la **tercera fase** consistirá en la entrega final del TFG, que será evaluado por el/la Director/a del TFG para ver si cumple con los criterios de calidad mínimos requeridos para que éste pase a ser entregado a los miembros del Tribunal Calificador del TFG y, por consiguiente, poder ser defendido de forma oral ante los mismos.
 
-Las fechas previstas de entrega de los documentos que se generan en cada fase estarán especificadas en el documento **"*Mapa TFG - \[xx\]\[xx\]*"** que encontrarán disponibles con carácter público en las plataformas electrónicas habituales (campus virtual, repositorio de la asignatura).
+Las fechas previstas de entrega de los documentos que se generan en cada fase estarán especificadas en el documento **"*Mapa TFG - \[xx\]\[xx\]*"** que encontrarán disponibles con carácter público en las plataformas electrónicas habituales (campus virtual, repositorio de la asignatura). 
 
 ### Primera fase
 
-Esta fase consistirá en la elaboración de dos documentos previo al desarrollo del TFG, denominados:
+Esta fase consistirá en la elaboración de dos documentos previo al desarrollo del TFG, denominados: 
 
 * Documento D0- Propuesta de posibles temas
 * Documento D1-Propuesta de TFG
@@ -73,18 +73,18 @@ Por otro lado, en todas las **entregas finales documentales** de esta segunda fa
 
 Será obligatoria la introducción de referencias bibliográficas que se irán actualizando a lo largo del desarrollo del TFG, las cuales se citarán [***acorde a la normativa APA vigente***](https://normasapa.in/).
 
-El incumplimiento de estas reglas básicas implicará que el Director/a del TFG no analice ni evalúe las entregas, resultando negativamente en la Evaluación continua del alumno y, por ende, en la calificación final del TFG.
+El incumplimiento de estas reglas básicas implicará que el Director/a del TFG no analice ni evalúe las entregas, resultando negativamente en la Evaluación continua del alumno y, por ende, en la calificación final del TFG. 
 
 En total, se realizarán 4 entregas evaluables por el/la Director/a del TFG y que se describirán a continuación.
 
-#### 1<sup>ra</sup> entrega: capítulo I - Capítulo metodológico
+#### 1<sup>ra</sup> entrega: capítulo I - Contextualización, estado del arte y metodología
 
 En este se hará una exposición detallada y actualizada de aquellos aspectos vinculados al objetivo del TFG. Para su entendimiento, se podrán utilizar los subcapítulos que se consideren oportunos con el objetivo de facilitar la comprensión y organización de la información, pero nunca pasar más allá de tres niveles jerárquicos. Una propuesta sería:
 
 * Situación de partida: Escenario / Necesidad / Problema  
 * Estado del Arte  
 * Objetivo general / Objetivos específicos  
-* Metodología & Tareas
+* Metodología & Tareas 
 
 En esta sección también se han de incluir tablas y/o figuras que se consideren apropiadas para facilitar la comprensión de las explicaciones aportadas.
 
@@ -104,7 +104,7 @@ Son parte de esta entrega documentos como:
   * Prototipos de los CdU.  
 * Diagrama de contexto.
 
-**La aprobación de este capítulo por parte del Director/a del TFG es imprescindible para optar a la convocatoria ordinaria**.
+**La aprobación de este capítulo por parte del Director/a del TFG es imprescindible para optar a la convocatoria ordinaria**. 
 
 #### 3<sup>ra</sup> entrega: capítulo III - Análisis y Diseño
 
@@ -161,6 +161,8 @@ El documento D1-Propuesta de TFG que se debe entregar en la primera fase será c
 * Relevancia de la bibliografía (10 citas mínimas).
 
 #### Evaluación de los distintos capítulos del TFG
+
+Los siguientes ítems se utilizan para evaluar las entregas intermedias de cada capítulo. La evaluación final del trabajo escrito se realiza mediante la rúbrica formal adjunta al final de este documento.
 
 La evaluación de esta entrega se hará según una serie de ítems valorados de 0 a 10, siendo la media de todas ellas la calificación final de la entrega.
 
@@ -219,9 +221,9 @@ La normativa de la Universidad Europea del Atlántico establece que:
 
 #### Evaluación del TFG por parte del Tribunal
 
-Los trabajos escritos (TFG) que sean APTOS según el apartado explicado en el punto 3.4., pasarán a ser evaluado por el Tribunal Calificador del TFG. El Tribunal estará compuesto por 3 profesores de la Universidad Europea del Atlántico, cuyos roles y funciones serán el de Presidente, Secretario y Vocal del Tribunal.
+Los trabajos escritos (TFG) que sean APTOS según el apartado explicado en el punto 3.4., pasarán a ser evaluado por el Tribunal Calificador del TFG. El Tribunal estará compuesto por 3 profesores de la Universidad Europea del Atlántico, cuyos roles y funciones serán el de Presidente, Secretario y Vocal del Tribunal. 
 
-Por otro lado, según las fechas indicadas por la Universidad Europea del Atlántico, estos TFG serán defendidos en forma de presentación frente al mismo Tribunal. Esta defensa consistirá en la entrega -en físico- del documento redactado, así como  la presentación de la solución diseñada por el alumno, seguida de una ronda de preguntas de cada uno de los miembros del Tribunal, que no podrá superar los 5 minutos. En este caso, la defensa será calificada por cada uno de los miembros del Tribunal bajo la rúbrica adjunta en el Anexo III.
+Por otro lado, según las fechas indicadas por la Universidad Europea del Atlántico, estos TFG serán defendidos en forma de presentación frente al mismo Tribunal. Esta defensa consistirá en la entrega -en físico- del documento redactado, así como la presentación de la solución diseñada por el alumno, seguida de una ronda de preguntas por parte de los miembros del Tribunal. En este caso, la defensa será calificada por cada uno de los miembros del Tribunal bajo la rúbrica adjunta en el Anexo III.
 
 #### Calificación final del TFG
 
@@ -263,25 +265,25 @@ Título del TFG:
 
 Si alguno de los siguientes ítems se cumple, el TFG será calificado automáticamente como NO APTO para la evaluación del contenido por parte del Director del TFG, y por ende, no podrá ser evaluado y defendido ante el Tribunal.
 
-| Ítem 1 | Ítem 2 | Ítem 3 | Ítem 4 | Ítem 5 | Ítem 6 | Ítem 7 | Calificación automática |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| TFG bajo sospecha de plagio | Redacción que dificulta la comprensión del texto  | TFG con errores de formato.  | TFG incompleto o con una extensión inadecuada. | Incumplimiento de Normativa del TFG | Incumplimiento de las Directrices. | Incumplimiento de la Normativa de la Universidad. | NO APTO |
+|Ítem 1|Ítem 2|Ítem 3|Ítem 4|Ítem 5|Ítem 6|Ítem 7|Calificación automática|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|TFG bajo sospecha de plagio|Redacción que dificulta la comprensión del texto|TFG con errores de formato.|TFG incompleto o con una extensión inadecuada.|Incumplimiento de Normativa del TFG|Incumplimiento de las Directrices.|Incumplimiento de la Normativa de la Universidad.|NO APTO|
 
 Una vez comprobado el cumplimiento básico establecido, se calificará el TFG escrito bajo la siguiente rúbrica:
 
-| Categoría |  | Incompleto (0-4 puntos) | Bien (5-7 puntos) | Excelente (8-10 puntos) | Calif. | Peso |
-| ----- | :---- | ----- | ----- | ----- | ----- | ----- |
-| 1 | Corrección formal | Texto con errores ortográficos, gramaticales y de expresión. Aspectos formales poco trabajados: portada, paginación, índice, etc. La extensión del TFG es insuficiente. | Texto sin errores ortográficos y gramaticales, pero con expresión pobre. Aspectos formales adecuados: portada, paginación, índice, etc. La extensión del TFG y de cada apartado es suficiente para la tipología del TFG. | Texto bien redactado. Sin errores ortográficos o gramaticales. Buena presentación: portada, paginación, índice, etc. La extensión del TFG y de cada apartado es adecuado a la tipología del TFG. |  | 5% |
-| 2 | Título, Resumen, Palabras clave | Título ambiguo y general. El resumen (español e inglés) no es adecuado al contenido del TFG. La identificación de las palabras clave es inadecuada. | Título poco preciso. El resumen (español e inglés) no se adecúa a la normativa. La identificación de las palabras clave es poco precisa. | Título adecuado, claro y preciso. El resumen (español e inglés) es adecuado al contenido del TFG. La identificación de las palabras clave es adecuada. |  | 5% |
-| 3 | Introducción, escenario y objetivos | No se justifica la importancia y/o relevancia del problema o necesidad abordados. Los objetivos no se derivan del escenario descrito ni son coherentes con la propuesta de solución. | Se justifica parcialmente la relevancia del escenario. Los objetivos son claros pero su conexión con el problema descrito es débil. | Se describe un escenario real con un problema o necesidad claramente identificados. Los objetivos son específicos, medibles y se derivan lógicamente del escenario. La hipótesis conecta escenario, objetivos y solución propuesta. |  | 10% |
-| 4 | Estado del arte | No se identifican soluciones o aproximaciones existentes al problema descrito, o las identificadas carecen de relevancia. No se justifica la necesidad de un desarrollo propio. | Se identifican algunas soluciones existentes pero el análisis comparativo es superficial. La justificación de la propuesta propia es débil o genérica. | Se identifican y analizan las soluciones y aproximaciones existentes relevantes para el problema, tanto teóricas como prácticas. Se argumenta con evidencia por qué no son adecuadas para el contexto específico, justificando la necesidad de la propuesta. Las fuentes son pertinentes y actuales. |  | 10% |
-| 5 | Metodología | La metodología no es adecuada para un proyecto de desarrollo de software o no se describe con suficiente detalle. No se identifican las fases del ciclo de vida ni los entregables esperados. | La metodología es adecuada al tipo de proyecto pero los pasos y entregables no están descritos con suficiente claridad para ser reproducibles o auditables. | La metodología es adecuada y está descrita con claridad: se identifica el ciclo de vida del software utilizado, las fases, los entregables de cada fase y los criterios de transición entre ellas. El proceso es reproducible y auditable. |  | 10% |
-| 6 | Disciplina de requisitos | El modelo del dominio es incompleto o inexistente. Los actores y casos de uso no reflejan el alcance del sistema. No hay diagrama de contexto o no es coherente con los casos de uso. | El modelo del dominio cubre las entidades principales. Los actores y casos de uso están identificados pero el detalle es insuficiente o los prototipos no corresponden con los casos de uso descritos. El diagrama de contexto existe pero presenta inconsistencias. | El modelo del dominio refleja fielmente la realidad del escenario. Los actores y casos de uso están identificados, priorizados y detallados. Los prototipos corresponden con los casos de uso. El diagrama de contexto es coherente con el conjunto. Existe trazabilidad entre el escenario, los requisitos y la propuesta de solución. |  | 15% |
-| 7 | Análisis y Diseño | No se identifican clases de análisis o su derivación desde los casos de uso es arbitraria. No hay transición documentada entre análisis y diseño. La arquitectura no se justifica. | Se identifican clases de análisis (modelo, vista, controlador) desde los casos de uso, pero la transición al diseño es incompleta. La arquitectura está descrita pero no se justifican las decisiones técnicas. | Las clases de análisis se derivan sistemáticamente de los casos de uso y el modelo del dominio. La transición de análisis a diseño está documentada y justificada. La arquitectura responde a los requisitos no funcionales. Los diagramas de clases de diseño, despliegue y paquetes son coherentes entre sí y con la implementación. |  | 15% |
-| 8 | Descripción de la solución | La solución presentada no se corresponde con el análisis y diseño previos. No se sigue una estructura lógica de navegación. | La solución corresponde parcialmente con el diseño. Se muestran las interfaces pero sin una estructura de navegación clara basada en el diagrama de contexto. | La solución implementada es coherente con el análisis y diseño documentados. La presentación sigue el flujo del diagrama de contexto y muestra los casos de uso representativos con sus interfaces. Se evidencia la correspondencia entre la arquitectura planteada y la estructura real del código. |  | 10% |
-| 9 | Conclusiones y recomendaciones | Las conclusiones no responden a los objetivos planteados. No se identifican limitaciones ni se proponen líneas futuras. | Las conclusiones responden a los objetivos pero de forma genérica. Se mencionan limitaciones y líneas futuras sin profundidad. | Las conclusiones demuestran el cumplimiento de cada objetivo específico con evidencia concreta. Se identifican limitaciones reales del trabajo. Las recomendaciones y líneas futuras son viables y se fundamentan en el proceso de desarrollo documentado. Se reflexiona sobre las decisiones tomadas y sus alternativas. |  | 10% |
-| 10 | Bibliografía y referencias | Fuentes insuficientes, no pertinentes o sin aplicación de la normativa APA. Las citas del texto no coinciden con la bibliografía. | Fuentes pertinentes pero de calidad desigual. Se aplica parcialmente la normativa APA. La mayoría de las citas del texto coinciden con la bibliografía. | Fuentes pertinentes, actuales y de calidad adecuada al tema (documentación técnica, artículos, estándares). Se aplica correctamente la normativa APA. Todas las citas del texto coinciden con la bibliografía y viceversa. |  | 10% |
-|  |  |  |  | **Nota sobre 10** |  |  |
+|Categoría||Incompleto (0-4 puntos)|Bien (5-7 puntos)|Excelente (8-10 puntos)|Calif.|Peso|
+|-|:----|-|-|-|-|-|
+|1|Corrección formal|Texto con errores ortográficos, gramaticales y de expresión. Aspectos formales poco trabajados: portada, paginación, índice, etc. La extensión del TFG es insuficiente.|Texto sin errores ortográficos y gramaticales, pero con expresión pobre. Aspectos formales adecuados: portada, paginación, índice, etc. La extensión del TFG y de cada apartado es suficiente para la tipología del TFG.|Texto bien redactado. Sin errores ortográficos o gramaticales. Buena presentación: portada, paginación, índice, etc. La extensión del TFG y de cada apartado es adecuado a la tipología del TFG.||5%|
+|2|Título, Resumen, Palabras clave|Título ambiguo y general. El resumen (español e inglés) no es adecuado al contenido del TFG. La identificación de las palabras clave es inadecuada.|Título poco preciso. El resumen (español e inglés) no se adecúa a la normativa. La identificación de las palabras clave es poco precisa.|Título adecuado, claro y preciso. El resumen (español e inglés) es adecuado al contenido del TFG. La identificación de las palabras clave es adecuada.||5%|
+|3|Introducción, escenario y objetivos|No se justifica la importancia y/o relevancia del problema o necesidad abordados. Los objetivos no se derivan del escenario descrito ni son coherentes con la propuesta de solución.|Se justifica parcialmente la relevancia del escenario. Los objetivos son claros pero su conexión con el problema descrito es débil.|Se describe un escenario real con un problema o necesidad claramente identificados. Los objetivos son específicos, medibles y se derivan lógicamente del escenario. La hipótesis conecta escenario, objetivos y solución propuesta.||10%|
+|4|Estado del arte|No se identifican soluciones o aproximaciones existentes al problema descrito, o las identificadas carecen de relevancia. No se justifica la necesidad de un desarrollo propio.|Se identifican algunas soluciones existentes pero el análisis comparativo es superficial. La justificación de la propuesta propia es débil o genérica.|Se identifican y analizan las soluciones y aproximaciones existentes relevantes para el problema, tanto teóricas como prácticas. Se argumenta con evidencia por qué no son adecuadas para el contexto específico, justificando la necesidad de la propuesta. Las fuentes son pertinentes y actuales.||10%|
+|5|Metodología|La metodología no es adecuada para un proyecto de desarrollo de software o no se describe con suficiente detalle. No se identifican las fases del ciclo de vida ni los entregables esperados.|La metodología es adecuada al tipo de proyecto pero los pasos y entregables no están descritos con suficiente claridad para ser reproducibles o auditables.|La metodología es adecuada y está descrita con claridad: se identifica el ciclo de vida del software utilizado, las fases, los entregables de cada fase y los criterios de transición entre ellas. El proceso es reproducible y auditable.||10%|
+|6|Disciplina de requisitos|El modelo del dominio es incompleto o inexistente. Los actores y casos de uso no reflejan el alcance del sistema. No hay diagrama de contexto o no es coherente con los casos de uso.|El modelo del dominio cubre las entidades principales. Los actores y casos de uso están identificados pero el detalle es insuficiente o los prototipos no corresponden con los casos de uso descritos. El diagrama de contexto existe pero presenta inconsistencias.|El modelo del dominio refleja fielmente la realidad del escenario. Los actores y casos de uso están identificados, priorizados y detallados. Los prototipos corresponden con los casos de uso. El diagrama de contexto es coherente con el conjunto. Existe trazabilidad entre el escenario, los requisitos y la propuesta de solución.||15%|
+|7|Análisis y Diseño|No se identifican clases de análisis o su derivación desde los casos de uso es arbitraria. No hay transición documentada entre análisis y diseño. La arquitectura no se justifica.|Se identifican clases de análisis (modelo, vista, controlador) desde los casos de uso, pero la transición al diseño es incompleta. La arquitectura está descrita pero no se justifican las decisiones técnicas.|Las clases de análisis se derivan sistemáticamente de los casos de uso y el modelo del dominio. La transición de análisis a diseño está documentada y justificada. La arquitectura responde a los requisitos no funcionales. Los diagramas de clases de diseño, despliegue y paquetes son coherentes entre sí y con la implementación.||15%|
+|8|Descripción de la solución|La solución presentada no se corresponde con el análisis y diseño previos. No se sigue una estructura lógica de navegación.|La solución corresponde parcialmente con el diseño. Se muestran las interfaces pero sin una estructura de navegación clara basada en el diagrama de contexto.|La solución implementada es coherente con el análisis y diseño documentados. La presentación sigue el flujo del diagrama de contexto y muestra los casos de uso representativos con sus interfaces. Se evidencia la correspondencia entre la arquitectura planteada y la estructura real del código.||10%|
+|9|Conclusiones y recomendaciones|Las conclusiones no responden a los objetivos planteados. No se identifican limitaciones ni se proponen líneas futuras.|Las conclusiones responden a los objetivos pero de forma genérica. Se mencionan limitaciones y líneas futuras sin profundidad.|Las conclusiones demuestran el cumplimiento de cada objetivo específico con evidencia concreta. Se identifican limitaciones reales del trabajo. Las recomendaciones y líneas futuras son viables y se fundamentan en el proceso de desarrollo documentado. Se reflexiona sobre las decisiones tomadas y sus alternativas.||10%|
+|10|Bibliografía y referencias|Fuentes insuficientes, no pertinentes o sin aplicación de la normativa APA. Las citas del texto no coinciden con la bibliografía.|Fuentes pertinentes pero de calidad desigual. Se aplica parcialmente la normativa APA. La mayoría de las citas del texto coinciden con la bibliografía.|Fuentes pertinentes, actuales y de calidad adecuada al tema (documentación técnica, artículos, estándares). Se aplica correctamente la normativa APA. Todas las citas del texto coinciden con la bibliografía y viceversa.||10%|
+|||||**Nota sobre 10**|||
 
 ---
 
@@ -298,12 +300,12 @@ Título del TFG:
 
 **EVALUACIÓN CONTINUA (20 % de la calificación final por parte del Director/a del TFG)** 
 
-| Categoría |  | Incompleto (0-5 puntos) | Bien (6-8 puntos) | Excelente (9-10 puntos) | Calif. | Peso |
-| ----- | :---- | ----- | ----- | ----- | ----- | ----- |
-| 1 | Cronograma y seguimiento | El alumno ni asiste a los seminarios ni se interesa por solventar dudas. Cumple esporádicamente con el cronograma establecido. | El alumno asiste a los seminarios pero no intenta solventar dudas, cumple parcialmente con el cronograma establecido. | El alumno asiste a los seminarios, solicita tutorías para solventar dudas, cumple con el cronograma establecido realizando las tareas en forma y fecha prevista. |  | 25% |
-| 2 | Implicación y esfuerzo | No se han seguido las indicaciones propuestas. | Se han seguido mínimamente las indicaciones propuestas por el/la Director/a. | El alumno aplica las correcciones e indicaciones del Director/a del TFG en las secciones acordadas y en las nuevas entregas, observándose un aprendizaje. El alumno se implica en el trabajo cuidando al máximo los detalles. |  | 25% |
-| 3 | Trazabilidad del proceso de desarrollo | El repositorio no existe, no está actualizado o no refleja el trabajo realizado. No hay evidencia del proceso de creación. | El repositorio existe y contiene el trabajo, pero el historial de commits es escaso, irregular o no descriptivo. La estructura del repositorio es básica. | El repositorio refleja fielmente el proceso de creación: historial de commits regular y descriptivo, organización coherente del código y los artefactos, integración de la documentación técnica (diagramas, modelos). El proceso de desarrollo es auditable a través del repositorio. |  | 50% |
-| Nota sobre 10 |  |  |  |  |  |  |
+|Categoría||Incompleto (0-5 puntos)|Bien (6-8 puntos)|Excelente (9-10 puntos)|Calif.|Peso|
+|-|:----|-|-|-|-|-|
+|1|Cronograma y seguimiento|El alumno ni asiste a los seminarios ni se interesa por solventar dudas. Cumple esporádicamente con el cronograma establecido.|El alumno asiste a los seminarios pero no intenta solventar dudas, cumple parcialmente con el cronograma establecido.|El alumno asiste a los seminarios, solicita tutorías para solventar dudas, cumple con el cronograma establecido realizando las tareas en forma y fecha prevista.||25%|
+|2|Implicación y esfuerzo|No se han seguido las indicaciones propuestas.|Se han seguido mínimamente las indicaciones propuestas por el/la Director/a.|El alumno aplica las correcciones e indicaciones del Director/a del TFG en las secciones acordadas y en las nuevas entregas, observándose un aprendizaje. El alumno se implica en el trabajo cuidando al máximo los detalles.||25%|
+|3|Trazabilidad del proceso de desarrollo|El repositorio no existe, no está actualizado o no refleja el trabajo realizado. No hay evidencia del proceso de creación.|El repositorio existe y contiene el trabajo, pero el historial de commits es escaso, irregular o no descriptivo. La estructura del repositorio es básica.|El repositorio refleja fielmente el proceso de creación: historial de commits regular y descriptivo, organización coherente del código y los artefactos, integración de la documentación técnica (diagramas, modelos). El proceso de desarrollo es auditable a través del repositorio.||50%|
+|Nota sobre 10|||||||
 
 *Columna "Calif" es la calificación de cada ítem sobre 10. En la columna "Peso" se indica el valor porcentual de cada una de las categorías calificadas para obtener la nota final sobre 10.*
 
@@ -324,12 +326,12 @@ Título del TFG:
 
 **Exposición oral - 20 % calificación final por parte del Tribunal Evaluador**
 
-| Categoría |  | Incompleto (0-5 puntos) | Bien (6-8 puntos) | Excelente (9-10 puntos) | Calificación | Peso |
-| ----- | :---- | ----- | ----- | ----- | ----- | ----- |
-| 1 | Calidad de la presentación | La exposición revela poca capacidad de síntesis. Los materiales de apoyo son confusos, excesivos o insuficientes. No se percibe una estructura clara. | La exposición revela buena capacidad de síntesis, pero la estructura no siempre apoya la comprensión del trabajo. Los materiales de apoyo son adecuados pero no siempre están bien integrados en el discurso. | La exposición revela excelente capacidad de síntesis. La estructura es clara y lógica. Los materiales de apoyo (repositorio, IDE, diagramas, demostración) están bien integrados y facilitan la comprensión del trabajo. |  | 25% |
-| 2 | Claridad expositiva | Baja capacidad de expresión oral. Lee demasiadas veces sus notas y no muestra interés por su trabajo. No se ajusta al tiempo disponible. | Correcta expresión oral, pero en algunos momentos baja el tono y no siempre mantiene el interés de la audiencia. Se ajusta razonablemente al tiempo. | Excelente expresión oral, clara y correcta, manteniendo el interés de la audiencia. Demuestra fluidez tanto en la exposición oral como en la navegación por las herramientas profesionales utilizadas. Se ajusta al tiempo disponible. |  | 25% |
-| 3 | Respuesta a los evaluadores | Respuestas pobres. No demuestra capacidad de razonamiento sobre el trabajo realizado ni dominio del sistema desarrollado. | Respuestas adecuadas y razonadas sobre su trabajo. Demuestra conocimiento del sistema pero con dificultad para profundizar en decisiones técnicas específicas. | Excelentes respuestas que demuestran dominio profundo del trabajo realizado. Capacidad de razonamiento sobre decisiones técnicas, alternativas consideradas y limitaciones identificadas. Capaz de explorar el sistema en tiempo real para fundamentar sus respuestas. |  | 50% |
-| Nota sobre 10 |  |  |  |  |  |  |
+|Categoría||Incompleto (0-5 puntos)|Bien (6-8 puntos)|Excelente (9-10 puntos)|Calificación|Peso|
+|-|:----|-|-|-|-|-|
+|1|Calidad de la presentación|La exposición revela poca capacidad de síntesis. Los materiales de apoyo son confusos, excesivos o insuficientes. No se percibe una estructura clara.|La exposición revela buena capacidad de síntesis, pero la estructura no siempre apoya la comprensión del trabajo. Los materiales de apoyo son adecuados pero no siempre están bien integrados en el discurso.|La exposición revela excelente capacidad de síntesis. La estructura es clara y lógica. Los materiales de apoyo (repositorio, IDE, diagramas, demostración) están bien integrados y facilitan la comprensión del trabajo.||25%|
+|2|Claridad expositiva|Baja capacidad de expresión oral. Lee demasiadas veces sus notas y no muestra interés por su trabajo. No se ajusta al tiempo disponible.|Correcta expresión oral, pero en algunos momentos baja el tono y no siempre mantiene el interés de la audiencia. Se ajusta razonablemente al tiempo.|Excelente expresión oral, clara y correcta, manteniendo el interés de la audiencia. Demuestra fluidez tanto en la exposición oral como en la navegación por las herramientas profesionales utilizadas. Se ajusta al tiempo disponible.||25%|
+|3|Respuesta a los evaluadores|Respuestas pobres. No demuestra capacidad de razonamiento sobre el trabajo realizado ni dominio del sistema desarrollado.|Respuestas adecuadas y razonadas sobre su trabajo. Demuestra conocimiento del sistema pero con dificultad para profundizar en decisiones técnicas específicas.|Excelentes respuestas que demuestran dominio profundo del trabajo realizado. Capacidad de razonamiento sobre decisiones técnicas, alternativas consideradas y limitaciones identificadas. Capaz de explorar el sistema en tiempo real para fundamentar sus respuestas.||50%|
+|Nota sobre 10|||||||
 
 *En la columna "Peso" se indica el valor porcentual de cada una de las categorías calificadas para obtener la nota final sobre 10.*
 
@@ -348,19 +350,19 @@ Secretario del tribunal:
 
 Vocal del tribunal:
 
-| Calificaciones sobre 10 |  |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-|  |  |  |  |  |  |
-| Director TFG - escrito | Director TFG – E. continua | Miembro tribunal 1 | Miembro tribunal 2 | Miembro tribunal 2 | Media Tribunal |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **Evaluación final** |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  | Director TFG - Trabajo (hasta 6 puntos) |  |  |  |  |
-|  | Director TFG – Ev. Continua (hasta 2 puntos) |  |  |  |  |
-|  | Media Tribunal (hasta 2 puntos) |  |  |  |  |
-|  | Calificación final |  |  |  |  |
+|Calificaciones sobre 10||||||
+|-|-|-|-|-|-|
+|||||||
+|Director TFG - escrito|Director TFG – E. continua|Miembro tribunal 1|Miembro tribunal 2|Miembro tribunal 2|Media Tribunal|
+|||||||
+|||||||
+|||||||
+|**Evaluación final**||||||
+|||||||
+||Director TFG - Trabajo (hasta 6 puntos)|||||
+||Director TFG – Ev. Continua (hasta 2 puntos)|||||
+||Media Tribunal (hasta 2 puntos)|||||
+||Calificación final|||||
 
 ---
 
