@@ -4,7 +4,7 @@
 
 ## Introducción
 
-El Trabajo de Fin de Grado (TFG) es una asignatura transversal en los grados de la Escuela Politécnica Superior, así como en otros tal y como se establece en el Artículo 12 del Real Decreto 1393/2007. Así, los estudios del Grado en Ingeniería Informática perteneciente a la Escuela Politécnica Superior concluirán con la elaboración y posterior defensa de un TFG. 
+El Trabajo de Fin de Grado (TFG) es una asignatura transversal en los grados de la Escuela Politécnica Superior, así como en otros tal y como se establece en el Artículo 12 del Real Decreto 1393/2007. Consiste en la realización, presentación y defensa de un ejercicio original consistente en un proyecto integral de Ingeniería Informática de naturaleza profesional en el que se sinteticen las competencias adquiridas en las enseñanzas (3). Así, los estudios del Grado en Ingeniería Informática perteneciente a la Escuela Politécnica Superior concluirán con la elaboración y posterior defensa de un TFG. 
 
 A continuación, se expondrán una serie de competencias que los alumnos/as del Grado en Ingeniería Informática de la Universidad Europea del Atlántico deberán obtener al finalizar esta formación, y cómo se llevará a cabo el proceso de realización y evaluación del mismo.
 
@@ -39,17 +39,17 @@ La Normativa General de la Universidad Europea del Atlántico[^1] establece que,
 
 ## Fases en la elaboración del Trabajo de Fin de Grado
 
-A continuación, se explicarán las tres fases en las que se ha dividido la elaboración del TFG en función de los objetivos a cumplir.
+A continuación, se explicarán las tres fases en las que se ha dividido la elaboración del TFG en función de los objetivos a cumplir. 
 
 * En la **primera fase**, se busca que tanto el/la alumno/a como el/la Director/a del TFG tengan una idea global del tema que se pretende desarrollar en el proyecto.
 * En la **segunda fase**, se han establecido las entregas donde el/la alumno/a deberá ir entregando por partes el TFG y recibirá unas correcciones del/de la Director/a del TFG que deberá ir aplicando en futuras entregas.
 * Finalmente, la **tercera fase** consistirá en la entrega final del TFG, que será evaluado por el/la Director/a del TFG para ver si cumple con los criterios de calidad mínimos requeridos para que éste pase a ser entregado a los miembros del Tribunal Calificador del TFG y, por consiguiente, poder ser defendido de forma oral ante los mismos.
 
-Las fechas previstas de entrega de los documentos que se generan en cada fase estarán especificadas en el documento **"*Mapa TFG - \[xx\]\[xx\]*"** que encontrarán disponibles con carácter público en las plataformas electrónicas habituales (campus virtual, repositorio de la asignatura).
+Las fechas previstas de entrega de los documentos que se generan en cada fase estarán especificadas en el documento **"*Mapa TFG \- \[xx\]\[xx\]*"** que encontrarán disponibles con carácter público en las plataformas electrónicas habituales (campus virtual, repositorio de la asignatura). 
 
 ### Primera fase
 
-Esta fase consistirá en la elaboración de dos documentos previo al desarrollo del TFG, denominados:
+Esta fase consistirá en la elaboración de dos documentos previo al desarrollo del TFG, denominados: 
 
 * Documento D0- Propuesta de posibles temas
 * Documento D1-Propuesta de TFG
@@ -73,18 +73,18 @@ Por otro lado, en todas las **entregas finales documentales** de esta segunda fa
 
 Será obligatoria la introducción de referencias bibliográficas que se irán actualizando a lo largo del desarrollo del TFG, las cuales se citarán [***acorde a la normativa APA vigente***](https://normasapa.in/).
 
-El incumplimiento de estas reglas básicas implicará que el Director/a del TFG no analice ni evalúe las entregas, resultando negativamente en la Evaluación continua del alumno y, por ende, en la calificación final del TFG.
+El incumplimiento de estas reglas básicas implicará que el Director/a del TFG no analice ni evalúe las entregas, resultando negativamente en la Evaluación continua del alumno y, por ende, en la calificación final del TFG. 
 
 En total, se realizarán 4 entregas evaluables por el/la Director/a del TFG y que se describirán a continuación.
 
-#### 1<sup>ra</sup> entrega: capítulo I - Capítulo metodológico
+#### 1<sup>ra</sup> entrega: capítulo I - Contextualización, estado del arte y metodología
 
 En este se hará una exposición detallada y actualizada de aquellos aspectos vinculados al objetivo del TFG. Para su entendimiento, se podrán utilizar los subcapítulos que se consideren oportunos con el objetivo de facilitar la comprensión y organización de la información, pero nunca pasar más allá de tres niveles jerárquicos. Una propuesta sería:
 
 * Situación de partida: Escenario / Necesidad / Problema  
 * Estado del Arte  
 * Objetivo general / Objetivos específicos  
-* Metodología & Tareas
+* Metodología & Tareas 
 
 En esta sección también se han de incluir tablas y/o figuras que se consideren apropiadas para facilitar la comprensión de las explicaciones aportadas.
 
@@ -104,7 +104,7 @@ Son parte de esta entrega documentos como:
   * Prototipos de los CdU.  
 * Diagrama de contexto.
 
-**La aprobación de este capítulo por parte del Director/a del TFG es imprescindible para optar a la convocatoria ordinaria**.
+**La aprobación de este capítulo por parte del Director/a del TFG es imprescindible para optar a la convocatoria ordinaria**. 
 
 #### 3<sup>ra</sup> entrega: capítulo III - Análisis y Diseño
 
@@ -162,9 +162,11 @@ El documento D1-Propuesta de TFG que se debe entregar en la primera fase será c
 
 #### Evaluación de los distintos capítulos del TFG
 
+Los siguientes ítems se utilizan para evaluar las entregas intermedias de cada capítulo. La evaluación final del trabajo escrito se realiza mediante la rúbrica formal adjunta al final de este documento.
+
 La evaluación de esta entrega se hará según una serie de ítems valorados de 0 a 10, siendo la media de todas ellas la calificación final de la entrega.
 
-Es fundamental que el alumno/a tenga en cuenta que, en caso de detectar plagio, el contenido no será corregido por el Director/a del TFG y la entrega correspondiente se evaluará con un 0. Los Directores del TFG disponen de herramientas normalizadas que permiten realizar esta revisión.
+Es fundamental que el alumno/a tenga en cuenta que, en caso de detectar plagio, el contenido no será corregido por el Director/a del TFG y la entrega correspondiente se evaluará con un 0\. Los Directores del TFG disponen de herramientas normalizadas que permiten realizar esta revisión.
 
 ##### Capítulos I y II
 
@@ -199,7 +201,7 @@ Los ítems bajo los cuales se evaluará la entrega son los siguientes:
 Los ítems bajo los cuales se evaluará la entrega son los siguientes:
 
 * El escrito incluye todas las partes acordadas en las directrices del TFG.  
-* La aplicación de las correcciones/indicaciones anteriormente han sido incluidas/aplicadas en todas las secciones de la Entrega 3.  
+* La aplicación de las correcciones/indicaciones anteriormente han sido incluidas/aplicadas en todas las secciones de la Entrega 3\.  
 * La solución implementada es coherente con el análisis y diseño documentados. La presentación sigue una estructura lógica basada en el diagrama de contexto y los casos de uso representativos.  
 * Las conclusiones están debidamente argumentadas y apoyadas en los resultados obtenidos. Se especifica si se han cumplido con los objetivos del TFG. Se aplican conclusiones coherentes con los resultados comentados previamente.
 * Se indican las limitaciones del trabajo. Se incluye la prospectiva del trabajo. Incluye una reflexión sobre las decisiones tomadas y sus alternativas.  
@@ -219,9 +221,9 @@ La normativa de la Universidad Europea del Atlántico establece que:
 
 #### Evaluación del TFG por parte del Tribunal
 
-Los trabajos escritos (TFG) que sean APTOS según el apartado explicado en el punto 3.4., pasarán a ser evaluado por el Tribunal Calificador del TFG. El Tribunal estará compuesto por 3 profesores de la Universidad Europea del Atlántico, cuyos roles y funciones serán el de Presidente, Secretario y Vocal del Tribunal.
+Los trabajos escritos (TFG) que sean APTOS según el apartado explicado en el punto 3.4., pasarán a ser evaluado por el Tribunal Calificador del TFG. El Tribunal estará compuesto por 3 profesores de la Universidad Europea del Atlántico, cuyos roles y funciones serán el de Presidente, Secretario y Vocal del Tribunal. 
 
-Por otro lado, según las fechas indicadas por la Universidad Europea del Atlántico, estos TFG serán defendidos en forma de presentación frente al mismo Tribunal. Esta defensa consistirá en la entrega -en físico- del documento redactado, así como  la presentación de la solución diseñada por el alumno, seguida de una ronda de preguntas de cada uno de los miembros del Tribunal, que no podrá superar los 5 minutos. En este caso, la defensa será calificada por cada uno de los miembros del Tribunal bajo la rúbrica adjunta en el Anexo III.
+Por otro lado, según las fechas indicadas por la Universidad Europea del Atlántico, estos TFG serán defendidos en forma de presentación frente al mismo Tribunal. Esta defensa consistirá en la entrega \-en físico- del documento redactado, así como la presentación de la solución diseñada por el alumno, seguida de una ronda de preguntas por parte de los miembros del Tribunal. En este caso, la defensa será calificada por cada uno de los miembros del Tribunal bajo la rúbrica adjunta en el Anexo III.
 
 #### Calificación final del TFG
 
@@ -242,7 +244,7 @@ En el Anexo V se dispone de la plantilla final en la que se resume cómo se obti
 ---
 
 **Grado en Ingeniería Informática**  
-**Rúbrica final de Evaluación del TFG - Trabajo escrito**
+**Rúbrica final de Evaluación del TFG \- Trabajo escrito**
 
 Nombre del alumno:
 
@@ -257,9 +259,9 @@ Título del TFG:
 
 **Trabajo escrito** 
 
-**-  60 % de la calificación final del TFG por parte del Director/a del TFG.**
+**\-  60 % de la calificación final del TFG por parte del Director/a del TFG.**
 
-**-  10 % calificación final del TFG por parte del Tribunal evaluador.**
+**\-  10 % calificación final del TFG por parte del Tribunal evaluador.**
 
 Si alguno de los siguientes ítems se cumple, el TFG será calificado automáticamente como NO APTO para la evaluación del contenido por parte del Director del TFG, y por ende, no podrá ser evaluado y defendido ante el Tribunal.
 
@@ -286,7 +288,7 @@ Una vez comprobado el cumplimiento básico establecido, se calificará el TFG es
 ---
 
 **Grado en Ingeniería Informática**  
-**Rúbrica final de Evaluación del TFG - Evaluación Continua**
+**Rúbrica final de Evaluación del TFG \- Evaluación Continua**
 
 Nombre del alumno:
 
@@ -310,7 +312,7 @@ Título del TFG:
 ---	
 
 **Grado en Ingeniería Informática**  
-**Rúbrica final de Evaluación del TFG - Exposición oral**
+**Rúbrica final de Evaluación del TFG \- Exposición oral**
 
 Nombre del alumno:
 
@@ -322,7 +324,7 @@ Evalúa:		□ Presidente/a del Tribunal
 
 Título del TFG: 
 
-**Exposición oral - 20 % calificación final por parte del Tribunal Evaluador**
+**Exposición oral \- 20 % calificación final por parte del Tribunal Evaluador**
 
 | Categoría |  | Incompleto (0-5 puntos) | Bien (6-8 puntos) | Excelente (9-10 puntos) | Calificación | Peso |
 | ----- | :---- | ----- | ----- | ----- | ----- | ----- |
@@ -351,13 +353,13 @@ Vocal del tribunal:
 | Calificaciones sobre 10 |  |  |  |  |  |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 |  |  |  |  |  |  |
-| Director TFG - escrito | Director TFG – E. continua | Miembro tribunal 1 | Miembro tribunal 2 | Miembro tribunal 2 | Media Tribunal |
+| Director TFG \- escrito | Director TFG – E. continua | Miembro tribunal 1 | Miembro tribunal 2 | Miembro tribunal 2 | Media Tribunal |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | **Evaluación final** |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  | Director TFG - Trabajo (hasta 6 puntos) |  |  |  |  |
+|  | Director TFG \- Trabajo (hasta 6 puntos) |  |  |  |  |
 |  | Director TFG – Ev. Continua (hasta 2 puntos) |  |  |  |  |
 |  | Media Tribunal (hasta 2 puntos) |  |  |  |  |
 |  | Calificación final |  |  |  |  |
