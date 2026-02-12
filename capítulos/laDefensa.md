@@ -69,7 +69,7 @@ Los elementos visuales deben apoyar la comprensión, no distraer de ella. Se rec
 
 - Diagramas **formales**, claros y legibles.
 - Capturas de pantalla de alta calidad.
-- Uso moderado de texto en las diapositivas.
+- Uso moderado de texto.
 - Consistencia en el estilo visual.
 
 ### Preparación para las preguntas del tribunal
