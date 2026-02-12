@@ -45,7 +45,7 @@ A continuación, se explicarán las tres fases en las que se ha dividido la elab
 * En la **segunda fase**, se han establecido las entregas donde el/la alumno/a deberá ir entregando por partes el TFG y recibirá unas correcciones del/de la Director/a del TFG que deberá ir aplicando en futuras entregas.
 * Finalmente, la **tercera fase** consistirá en la entrega final del TFG, que será evaluado por el/la Director/a del TFG para ver si cumple con los criterios de calidad mínimos requeridos para que éste pase a ser entregado a los miembros del Tribunal Calificador del TFG y, por consiguiente, poder ser defendido de forma oral ante los mismos.
 
-Las fechas previstas de entrega de los documentos que se generan en cada fase estarán especificadas en el documento **"*Mapa TFG - \[xx\]\[xx\]*"** que encontrarán disponibles con carácter público en las plataformas electrónicas habituales (campus virtual, repositorio de la asignatura). 
+Las fechas previstas de entrega de los documentos que se generan en cada fase estarán especificadas en el documento **"*Mapa TFG - [xx][xx]*"** que encontrarán disponibles con carácter público en las plataformas electrónicas habituales (campus virtual, repositorio de la asignatura). 
 
 ### Primera fase
 
@@ -166,7 +166,7 @@ Los siguientes ítems se utilizan para evaluar las entregas intermedias de cada 
 
 La evaluación de esta entrega se hará según una serie de ítems valorados de 0 a 10, siendo la media de todas ellas la calificación final de la entrega.
 
-Es fundamental que el alumno/a tenga en cuenta que, en caso de detectar plagio, el contenido no será corregido por el Director/a del TFG y la entrega correspondiente se evaluará con un 0. Los Directores del TFG disponen de herramientas normalizadas que permiten realizar esta revisión.
+Es fundamental que el alumno/a tenga en cuenta que, en caso de detectar plagio, el contenido no será corregido por el Director/a del TFG y la entrega correspondiente se evaluará con un 0\. Los Directores del TFG disponen de herramientas normalizadas que permiten realizar esta revisión.
 
 ##### Capítulos I y II
 
@@ -201,7 +201,7 @@ Los ítems bajo los cuales se evaluará la entrega son los siguientes:
 Los ítems bajo los cuales se evaluará la entrega son los siguientes:
 
 * El escrito incluye todas las partes acordadas en las directrices del TFG.  
-* La aplicación de las correcciones/indicaciones anteriormente han sido incluidas/aplicadas en todas las secciones de la Entrega 3.  
+* La aplicación de las correcciones/indicaciones anteriormente han sido incluidas/aplicadas en todas las secciones de la Entrega 3\.  
 * La solución implementada es coherente con el análisis y diseño documentados. La presentación sigue una estructura lógica basada en el diagrama de contexto y los casos de uso representativos.  
 * Las conclusiones están debidamente argumentadas y apoyadas en los resultados obtenidos. Se especifica si se han cumplido con los objetivos del TFG. Se aplican conclusiones coherentes con los resultados comentados previamente.
 * Se indican las limitaciones del trabajo. Se incluye la prospectiva del trabajo. Incluye una reflexión sobre las decisiones tomadas y sus alternativas.  
@@ -244,7 +244,7 @@ En el Anexo V se dispone de la plantilla final en la que se resume cómo se obti
 ---
 
 **Grado en Ingeniería Informática**  
-**Rúbrica final de Evaluación del TFG - Trabajo escrito**
+**Rúbrica final de Evaluación del TFG \- Trabajo escrito**
 
 Nombre del alumno:
 
@@ -259,9 +259,9 @@ Título del TFG:
 
 **Trabajo escrito** 
 
-**-  60 % de la calificación final del TFG por parte del Director/a del TFG.**
+**\-  60 % de la calificación final del TFG por parte del Director/a del TFG.**
 
-**-  10 % calificación final del TFG por parte del Tribunal evaluador.**
+**\-  10 % calificación final del TFG por parte del Tribunal evaluador.**
 
 Si alguno de los siguientes ítems se cumple, el TFG será calificado automáticamente como NO APTO para la evaluación del contenido por parte del Director del TFG, y por ende, no podrá ser evaluado y defendido ante el Tribunal.
 
@@ -288,7 +288,7 @@ Una vez comprobado el cumplimiento básico establecido, se calificará el TFG es
 ---
 
 **Grado en Ingeniería Informática**  
-**Rúbrica final de Evaluación del TFG - Evaluación Continua**
+**Rúbrica final de Evaluación del TFG \- Evaluación Continua**
 
 Nombre del alumno:
 
@@ -312,7 +312,7 @@ Título del TFG:
 ---	
 
 **Grado en Ingeniería Informática**  
-**Rúbrica final de Evaluación del TFG - Exposición oral**
+**Rúbrica final de Evaluación del TFG \- Exposición oral**
 
 Nombre del alumno:
 
@@ -324,7 +324,7 @@ Evalúa:		□ Presidente/a del Tribunal
 
 Título del TFG: 
 
-**Exposición oral - 20 % calificación final por parte del Tribunal Evaluador**
+**Exposición oral \- 20 % calificación final por parte del Tribunal Evaluador**
 
 |Categoría||Incompleto (0-5 puntos)|Bien (6-8 puntos)|Excelente (9-10 puntos)|Calificación|Peso|
 |-|:----|-|-|-|-|-|
@@ -363,6 +363,7 @@ Vocal del tribunal:
 ||Director TFG – Ev. Continua (hasta 2 puntos)|||||
 ||Media Tribunal (hasta 2 puntos)|||||
 ||Calificación final|||||
+
 
 ---
 
