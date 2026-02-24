@@ -45,6 +45,6 @@ Para la adecuada gestión del TFG el seguimiento de las fechas de entrega es fun
 
 Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md) y [las herramientas para la misma](capítulos/elRepo.md)
 
-### Confidencialidad del TFG
+## Confidencialidad del TFG
 
 En [este documento](docs/confidencialidad/README.md) se han recopilado los elementos a tener en cuenta con respecto la confidencialidad del TFG.
