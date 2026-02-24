@@ -10,6 +10,6 @@ Este documento recopila los pasos a seguir en aquellos trabajos que quieran acog
 
 Habitualmente el punto 3 se trata del convenio de prácticas que firman el alumno, la empresa y la universidad. El punto 2 puede estar contemplado en ese mismo documento, o bien haberse redactado de modo específico para el TFG. En caso de que el TFG no esté vinculado a un convenio de prácticas, la empresa deberá emitir un certificado que acredite el período de colaboración.
 
-Se pueden utilizar [las siguientes plantillas](plantillas/) como base para generar los puntos 1 y 2.
+Se pueden utilizar [las siguientes plantillas](plantillas/) como base para generar los puntos 1 ([Universidad-Empresa](plantillas/UniversidadEmpresa.md)) y 2 ([Alumno-Empresa](plantillas/AlumnoEmpresa.md)).
 
 Adicionalmente, estos puntos deben aportarse dentro del TFG, en un Anexo especialmente dedicado a este tema.
